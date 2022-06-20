@@ -19,8 +19,8 @@ The pastiche generation process is optimized based on the overall loss which is 
 6- Image Optimization Class with Multisize Stroke Feature\
 7- Testing the Optimization Algorithm\
 8- Visualizing & Comparing the Different Pastiches\
-9- Fine Tuning Optimization
-10- Creating a Video Recorder
+9- Fine Tuning Optimization\
+10- Creating a Video Recorder\
 11- References
 
 ## Note
